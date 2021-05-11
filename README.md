@@ -1,9 +1,17 @@
-# telegram-youtube-thumbnail-download--bot
-This is a simple telegram  bot which help in downloading youtube thumbnail
+# YouTube thumbnail download bot for telegram 
 
-Link to the bot working :-
+A simple telegram bot to download YouTube video thumbnail 
+
+## How to run
+```
+py3.8 server.py
+```
+
+## Demo
 https://t.me/YT_Thumbnail_mg_bot
 
-Run sever.py
+## Contributing
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
-And edit config and out your api key in that
+### Deploy to Heroku
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Master-Genius-code/telegram-youtube-thumbnail-download--bot/-)
