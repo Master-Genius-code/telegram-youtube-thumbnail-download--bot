@@ -7,9 +7,6 @@ A simple telegram bot to download YouTube video thumbnail
 py3.8 server.py
 ```
 
-## Demo
-https://t.me/YT_Thumbnail_mg_bot
-
 ## Configs
 
 * TOKEN  - Get bot token from @BotFather
